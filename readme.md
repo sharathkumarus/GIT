@@ -5,9 +5,6 @@
 <a href="https://twitter.com/sharathkumarus">
   <img align="left" alt="Sharath kumar us | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in//">
-  <img align="left" alt="Sharath kumar us's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sharathkumarus)
 
@@ -27,25 +24,24 @@ i am Study 5th sem
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<code><img height="20" src ="https://tse1.mm.bing.net/th?id=OIP.Vi6VNCi7h8x4pBnOD884_gHaEA&pid=Api&P=0"></code>
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   33 hrs 50 mins  █████████████████████████   99.68 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-GraphQL      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+cybersecurity   33 hrs 50 mins  █████████████████████████   99.68 %
+C++             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+python          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://in .linkdin.com/in/SHARATH KUMAR U S" target="_blank"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Linkdin" width="100" ></a>
+<a href="https://r.search.yahoo.com/_ylt=AwrKAMuOwLtj51AOSBW7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1673277711/RO=10/RU=https%3a%2f%2fin.linkedin.com%2fin%2fsharath-kumar-u-s-214066215/RK=2/RS=lrmQxXO0sSwN2aeYYbTiP.uRPxc-"
+ target="_blank"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Linkdin" width="100" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -54,7 +50,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
+heyyyy
 
 📈 my github stats
 
